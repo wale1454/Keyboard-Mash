@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Keyboard Sound FX",
+    "name": "Keyboard-Mash",
     "version": "1.0",
-    "description": "Plays a sound effect on every keystroke.",
+    "description": "Plays a mechanical keyboard sound fx on every keystroke.",
     "permissions": [],
     "host_permissions": ["<all_urls>"],
     "web_accessible_resources": [
