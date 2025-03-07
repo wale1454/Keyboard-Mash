@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "Keyboard Sound FX",
+    "version": "1.0",
+    "description": "Plays a sound effect on every keystroke.",
+    "permissions": [],
+    "host_permissions": ["<all_urls>"],
+"web_accessible_resources": [
+  {
+    "resources": [
+      "sounds/*.mp3"
+    ],
+    "matches": ["<all_urls>"]
+  }
+],
+
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"],
+        "run_at": "document_start"
+      }
+    ]
+  }
+  
