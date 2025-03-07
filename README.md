@@ -3,7 +3,7 @@ Klacks Clone - Chrome Extension
 
 A mechanical keyboard in your browser.
 
-# installing the Chrome extension locally. 
+# Installing the Chrome extension locally. 
 
 
 ## Step 1: Download the Extension Files
