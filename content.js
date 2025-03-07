@@ -28,7 +28,7 @@ const soundFiles = [
 ];
 
 document.addEventListener("keydown", () => {
-  // Pick a random sound file from the list
+  // Picks a random sound file from the list
   const randomSound = soundFiles[Math.floor(Math.random() * soundFiles.length)];
 
   // Create audio element with the correct path
@@ -36,7 +36,7 @@ document.addEventListener("keydown", () => {
   
   console.log(`Loading sound: sounds/${randomSound}`);
 
-  sound.currentTime = 0; // Restart sound if already playing
+  sound.currentTime = 0; // Restarts sound if already playing
   sound.play()
     .then(() => console.log(`Played: ${randomSound}`))
     .catch(error => console.error("Audio play failed:", error));
