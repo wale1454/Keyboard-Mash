@@ -1,6 +1,8 @@
 # Keyboard-Mash
 Klacks Clone - Chrome Extension
 
+A mechanical keyboard in your browser.
+
 # installing the Chrome extension locally. 
 
 
@@ -24,4 +26,4 @@ Klacks Clone - Chrome Extension
 1. After this, Chrome will load/ install the extension.
 2. Once the installation is complete, the extension's icon appears in the "Extensions" section of Chrome.
 
-Type away! 
+Type away on your virtual mechanical keyboard! 
