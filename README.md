@@ -1,9 +1,12 @@
 # Keyboard-Mash
-Klacks Clone - Chrome Extension
 
-A mechanical keyboard in your browser.
+Chrome Extension - A mechanical keyboard in your browser.
 
-# Installing the Chrome extension locally. 
+Inspired by [Klack](https://tryklack.com/) 
+
+
+
+# Installing the extension locally. 
 
 
 ## Step 1: Download the Extension Files
